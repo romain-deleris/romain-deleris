@@ -10,7 +10,7 @@ Signal & Séries Temporelles : Analyse spectrale, ondelettes et modélisation st
 Software Engineering : Python, SQL, développement d'API (Git, Flask) et méthodes Agiles sous Linux.
 
 
-Ouvert aux opportunités d'alternance pour la rentrée 2026 en Data Science, solutions IA, Computer Vision ou traitement du Signal/Image.
+### Ouvert aux opportunités d'alternance pour la rentrée 2026 en Data Science, solutions IA, Computer Vision ou traitement du Signal/Image.
 
 ---
 
