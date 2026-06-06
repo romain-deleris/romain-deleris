@@ -1,9 +1,18 @@
 # GitHub: Romain Deleris 👋
 
-### Data Science & Machine Learning Engineering Student
+## Étudiant en 4ème année de Mathématiques Appliquées (GMM) à l'INSA Toulouse, je me spécialise en Data Science, solutions IA et traitement du Signal/Image
 
-Actuellement élève ingénieur en 4ème année à l'INSA, je me spécialise dans l'exploitation de la donnée pour résoudre des problèmes complexes, de l'analyse exploratoire (EDA) jusqu'au déploiement de modèles prédictifs.
+Expertises clés :
+Data Science & IA : Machine Learning, Deep Learning, PyTorch et Computer Vision (CNN).
+Signal & Séries Temporelles : Analyse spectrale, ondelettes et modélisation stochastique (ARMA/ARIMA).
+Software Engineering : Python, SQL, développement d'API (Git, Flask) et méthodes Agiles sous Linux.
 
+Projets & Atouts :
+Recherche : Travaux sur les modèles de diffusion et rédaction technique en anglais.
+Données massives: nettoyage, structuration, classification et prédiction sur des datasets réels (Parcoursup, données médicales).
+International : Semestre d'échange aux États-Unis (anglais courant).
+
+Ouvert aux opportunités d'alternance pour la rentrée 2026 en Data Science, solutions IA, Computer Vision ou traitement du Signal/Image.
 ---
 
 ## 🚀 Projets Phares (Featured Work)
