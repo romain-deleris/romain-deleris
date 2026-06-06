@@ -1,6 +1,6 @@
-# GitHub: Romain Deleris 👋
+# Romain Deleris 
 
-## Étudiant en 4ème année de Mathématiques Appliquées (GMM) à l'INSA Toulouse, je me spécialise en Data Science, solutions IA et traitement du Signal/Image
+## Étudiant en 4ème année de Mathématiques Appliquées (GMM) à l'INSA Toulouse, je me spécialise en Data Science, solutions IA et Computer Vision.
 
 Expertises clés :
 Data Science & IA : Machine Learning, Deep Learning, PyTorch et Computer Vision (CNN).
@@ -13,6 +13,7 @@ Données massives: nettoyage, structuration, classification et prédiction sur d
 International : Semestre d'échange aux États-Unis (anglais courant).
 
 Ouvert aux opportunités d'alternance pour la rentrée 2026 en Data Science, solutions IA, Computer Vision ou traitement du Signal/Image.
+
 ---
 
 ## 🚀 Projets Phares (Featured Work)
@@ -27,6 +28,11 @@ Ouvert aux opportunités d'alternance pour la rentrée 2026 en Data Science, sol
 * **Compétences :** Classification, Feature Engineering, Scikit-Learn, Évaluation de modèles médicaux (Recall, F1-Score).
 * **Impact :** Développement d'un pipeline ML robuste optimisé pour minimiser les faux négatifs (critique en milieu médical).
 
+### 🧠 [GenAI & Computer Vision : Étude et Implémentation des Modèles de Diffusion](https://github.com/R7even31/Research_Project_Diffusion_Models.git)
+* **Objectif :** Décrypter les fondements mathématiques de l'IA générative moderne (chaînes de Markov, DDPM) et analyser leur supériorité face aux architectures classiques (GANs, VAEs).
+* **Compétences :** Deep Learning, Computer Vision, Architecture U-Net, Mathématiques Statistiques, Implémentation d'algorithmes.
+* **Impact :** Traduction de la théorie probabiliste en expérimentation concrète avec le développement et l'entraînement complet d'un pipeline de génération d'images sur le dataset Oxford-IIIT Pet.
+
 ---
 
 ## 🛠️ Stack Technique
@@ -37,4 +43,4 @@ Ouvert aux opportunités d'alternance pour la rentrée 2026 en Data Science, sol
 
 ---
 
-📫 **Me contacter :** [https://www.linkedin.com/in/romain-deleris-alternance-ia-data/] | [Portfolio en construction :)]
+📫 **Me contacter :** [https://www.linkedin.com/in/romain-deleris-alternance-ia-data/] 
