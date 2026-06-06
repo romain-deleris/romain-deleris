@@ -41,4 +41,6 @@ Software Engineering : Python, SQL, développement d'API (Git, Flask) et méthod
 
 ---
 
-📫 **Me contacter :** [https://www.linkedin.com/in/romain-deleris-alternance-ia-data/] 
+📫 **Me contacter :** [https://www.linkedin.com/in/romain-deleris-alternance-ia-data/]
+
+[![CV_Romain_Deleris](https://img.shields.io/badge/Télécharger_mon_CV-gray?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](CV_RomainDeleris.pdf)
