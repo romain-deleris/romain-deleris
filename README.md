@@ -1,5 +1,3 @@
-Optimized tool selectionI’m preparing the English version of your portfolio text and will adapt it to match your profile, including your ongoing AI project in aerospace.
-
 ## Romain Deleris
 
 ### 🔗 [→ Discover my portfolio](https://romain-deleris.github.io)
@@ -51,4 +49,3 @@ Key areas of expertise:
 
 ---
 
-Si tu veux, je peux aussi te faire une version encore plus premium, plus “portfolio/LinkedIn” avec un ton plus professionnel et plus impactant pour l’aéronautique / défense.
