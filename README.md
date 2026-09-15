@@ -24,9 +24,10 @@ Key areas of expertise:
 * Impact: Development of a robust ML pipeline optimized to minimize false negatives, which is critical in medical decision-making.
 
 ### 🛰️ [Applied AI for Aerospace Tooling](https://dedienne-aero.com/)
-* Objective: Work on an ongoing applied AI project focused on aerospace and defense use cases, with a strong emphasis on computer vision, data analysis, and decision-support systems.
-* Skills: Deep Learning, Computer Vision, PyTorch, Data Engineering, Image Processing, Model Evaluation, Applied AI for industrial and aerospace contexts.
-* Impact: Design and development of AI-driven solutions aimed at improving analysis, automation, and operational efficiency in aerospace-related applications.
+Development of an internal application that automatically analyzes aeronautical technical drawings using AI, from file upload to delivery of the results to the business teams.
+• Computer vision and Python processing pipeline: OCR, segmentation of documents into zones (binarization, connected components, contour analysis), geometric detection, training and evaluation of YOLO models on a hand annotated dataset.
+• Integration of language and vision models to read the drawings: prompt and output schema design, evaluation of the results.
+• Web application and cloud deployment: FastAPI, PostgreSQL, JavaScript, Docker, Azure Container Apps, Entra ID, infrastructure as code (Bicep), CI/CD with GitHub Actions.
 
 ### 🧠 [GenAI & Computer Vision: Study and Implementation of Diffusion Models](https://github.com/R7even31/Research_Project_Diffusion_Models.git)
 * Objective: Understand the mathematical foundations of modern generative AI (Markov chains, DDPM) and analyze their superiority over classical architectures (GANs, VAEs).
