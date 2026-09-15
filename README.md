@@ -23,7 +23,7 @@ Key areas of expertise:
 * Skills: Classification, Feature Engineering, Scikit-Learn, Model evaluation in medical contexts (Recall, F1-Score).
 * Impact: Development of a robust ML pipeline optimized to minimize false negatives, which is critical in medical decision-making.
 
-### 🛰️ [AIDRAW: Applied AI for Aerospace & Defense](https://github.com/)
+### 🛰️ [Applied AI for Aerospace & Defense](https://dedienne-aero.com/)
 * Objective: Work on an ongoing applied AI project focused on aerospace and defense use cases, with a strong emphasis on computer vision, data analysis, and decision-support systems.
 * Skills: Deep Learning, Computer Vision, PyTorch, Data Engineering, Image Processing, Model Evaluation, Applied AI for industrial and aerospace contexts.
 * Impact: Design and development of AI-driven solutions aimed at improving analysis, automation, and operational efficiency in aerospace-related applications.
