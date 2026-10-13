@@ -23,7 +23,7 @@ Key areas of expertise:
 - Skills: Anomaly Detection, Time Series Modeling, Machine Learning, Telemetry Data Processing.
 - Impact: Developing intelligent monitoring algorithms to identify real-time and post-flight simulation deviations.
 
-### 🛠️ [Applied AI for Aerospace Tooling](https://dedienne-aero.com/)
+### 🛠️ [Dedienne Aerospsace — Applied AI for Aerospace Tooling](https://dedienne-aero.com/)
 Development of an internal application that automatically analyzes aeronautical technical drawings using AI, from file upload to delivery of the results to the business teams.
 - Computer vision and Python processing pipeline: OCR, segmentation of documents into zones (binarization, connected components, contour analysis), geometric detection, training and evaluation of YOLO models on a hand annotated dataset.
 - Integration of language and vision models to read the drawings: prompt and output schema design, evaluation of the results.
